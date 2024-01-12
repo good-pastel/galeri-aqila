@@ -1,0 +1,6 @@
+username	:  if0_35773107
+pw			: martabaktelor92
+host		: 185.27.134.11
+port		: 21
+
+aqilamahes.rf.gd
