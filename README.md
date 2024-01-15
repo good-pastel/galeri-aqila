@@ -28,7 +28,7 @@
 > <br>
 > <img src="https://i.ibb.co/7XXq1R6/photo-3.png" alt="Header" width="400" height="250">
 
-## Language
+## Languages
 
 <img src="https://i.ibb.co/F6XwY0C/1.png">
 <br>
