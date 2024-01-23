@@ -1,6 +1,6 @@
 # Galeri Aqila
 
-> [[galeri aqila](https://aqilamahes.rf.gd/?i=1)]
+> [[galeri aqila](https://good-pastel.github.io/galeri-aqila)]
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
