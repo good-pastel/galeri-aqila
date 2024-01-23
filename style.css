@@ -123,27 +123,27 @@ main > div > a:hover {
 /* image-slide */
 .slide-1 {
   background: linear-gradient(to top, #770f66, #203a4300, #2c536400),
-    url("https://raw.githubusercontent.com/good-pastel/galeri-aqila/main/img/photo-1.jpg")
+    url("img/photo-1.jpg")
       no-repeat 50% 50% / cover;
 }
 .slide-2 {
   background: linear-gradient(to top, #75770f, #203a4300, #2c536400),
-    url("https://raw.githubusercontent.com/good-pastel/galeri-aqila/main/img/photo-2.jpg")
+    url("photo-2.jpg")
       no-repeat 50% 50% / cover;
 }
 .slide-3 {
   background: linear-gradient(to top, #771f0f, #203a4300, #2c536400),
-    url("https://raw.githubusercontent.com/good-pastel/galeri-aqila/main/img/photo-3.jpg")
+    url("img/photo-3.jpg")
       no-repeat 50% 50% / cover;
 }
 .slide-4 {
   background: linear-gradient(to top, #5f0f77, #203a4300, #2c536400),
-    url("https://raw.githubusercontent.com/good-pastel/galeri-aqila/main/img/photo-4.jpg")
+    url("img/photo-4.jpg")
       no-repeat 50% 50% / cover;
 }
 .slide-5 {
   background: linear-gradient(to top, #0f7729, #203a4300, #2c536400),
-    url("https://raw.githubusercontent.com/good-pastel/galeri-aqila/main/img/photo-5.jpg")
+    url("img/photo-5.jpg")
       no-repeat 50% 50% / cover;
 }
 /* responsive */
