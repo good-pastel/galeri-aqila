@@ -26,13 +26,7 @@
 > My first landing page for my precious girl, Aqila.
 > <img src="https://i.ibb.co/7XXq1R6/photo-3.png">
 
-## Languages
-
-<img src="https://i.ibb.co/F6XwY0C/1.png">
-<br>
-<br>
-<br>
-&copy Good Pastel. 2024
+&copy; Good Pastel. 2024
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
